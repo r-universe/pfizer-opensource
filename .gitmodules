@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "deprivateR"]
+	path = deprivateR
+	url = https://github.com/pfizer-opensource/deprivater
 [submodule "zippeR"]
 	path = zippeR
 	url = https://github.com/pfizer-opensource/zipper
